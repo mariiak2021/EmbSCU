@@ -11,7 +11,7 @@
 [[`Paper`]] - accepted to [IROS24](https://www.iros2024-abudhabi.org/)
 
 <p float="left">
-  <img src="main2.JPG?raw=true" width="60%" />
+  <img src="main2.JPG?raw=true" width="40%" />
   <img src="pipeline2.JPG?raw=true" width="40%" /> 
 </p>
 
