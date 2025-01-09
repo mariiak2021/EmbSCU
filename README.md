@@ -8,7 +8,7 @@
 
 <p>† Institute for Information Processing, Leibniz University of Hannover (LUH), Germany</p>
 
-[[`Paper`]] - accepted to [IROS24](https://www.iros2024-abudhabi.org/)
+[[`Paper to be published soon`]] - accepted to [IROS24](https://www.iros2024-abudhabi.org/)
 
 <p float="left">
   <img src="main2.JPG?raw=true" width="50%" />
