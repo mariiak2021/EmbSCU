@@ -34,6 +34,7 @@ git clone git@github.com:mariiak2021/EmbSCU.git
 
 Here's a quick summary of the most important files/directories in this repository:
 * `environment.yml` the file with all requirements to set up conda environment
+* `checkpoints` the folder with different models checkpoints used for evaluation in the papers
 * `pano_code`
     - `eval_results` - The folder to keep evaluation results of any model variation
     - `results` - The folder to keep checkpoints from model training
