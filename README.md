@@ -45,7 +45,7 @@ Here's a quick summary of the most important files/directories in this repositor
 
 
 </p>
-
+</details>
 
 You can then install requirements by using conda, we can create a `embclone` environment with our requirements by running
 ```bash
